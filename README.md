@@ -2,22 +2,22 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=mariocostabile%2FREADME.md&countColor=%23263759)
 
-👋 Ciao! Sono **Mario Costabile**, studente di Informatica presso l'**Università della Calabria (UniCal)**, appassionato di **Intelligenza Artificiale**, **Deep Learning** e **Sviluppo Software Full-Stack**.
+👋 Hi! I'm **Mario Costabile**, an M.Sc. student in **Computer Science** (focusing on **Artificial Intelligence & Machine Learning**) at **Università della Calabria (UniCal)**.
 
-Attualmente mi occupo di **Anomaly Detection** e **Computer Vision** applicate al medical imaging con **PyTorch**, oltre a sviluppare applicazioni web e mobile moderne (React Native / Expo, Spring Boot, Angular).
+I'm interested in **Deep Learning**, **Computer Vision**, and software development. I use GitHub to share my university projects, experiment with code, and document my learning journey.
 
 ---
 
-## 📬 Contatti & Social
+## 📬 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-costabile-700b0826a/)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tuosito.com) -->
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com) -->
 
 ---
 
-## 🛠️ Linguaggi e Tecnologie
+## 🛠️ Languages & Technologies
 
-### 💻 Linguaggi
+### 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -27,7 +27,7 @@ Attualmente mi occupo di **Anomaly Detection** e **Computer Vision** applicate a
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
-### 🤖 AI, Deep Learning & Data
+### 🤖 AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -43,14 +43,14 @@ Attualmente mi occupo di **Anomaly Detection** e **Computer Vision** applicate a
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-### ⚙️ Backend, Database & Sicurezza
+### ⚙️ Backend, Database & Auth
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-0085CA?style=for-the-badge&logo=red-hat&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-222222?style=for-the-badge&logo=oauth&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🧰 Strumenti & DevOps
+### 🧰 Tools & DevOps
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -59,7 +59,7 @@ Attualmente mi occupo di **Anomaly Detection** e **Computer Vision** applicate a
 
 ---
 
-## 📊 Statistiche GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mariocostabile&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />

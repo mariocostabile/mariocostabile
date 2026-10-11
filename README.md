@@ -2,9 +2,9 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=mariocostabile%2FREADME.md&countColor=%23263759)
 
-👋 Hi! I'm **Mario Costabile**, an M.Sc. student in **Computer Science** (focusing on **Artificial Intelligence & Machine Learning**) at **Università della Calabria (UniCal)**.
+👋 Hi! I'm **Mario Costabile**, an M.Sc. student in **Artificial Intelligence & Machine Learning** at **Università della Calabria (UniCal)**.
 
-I'm interested in **Deep Learning**, **Computer Vision**, and software development. I use GitHub to share my university projects, experiment with code, and document my learning journey.
+I use GitHub to share my university projects, experiment with code, and document my learning journey.
 
 ---
 
@@ -29,7 +29,7 @@ I'm interested in **Deep Learning**, **Computer Vision**, and software developme
 
 ### 🤖 AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)

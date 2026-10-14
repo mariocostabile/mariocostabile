@@ -11,7 +11,7 @@ I use GitHub to share my university projects, experiment with code, and document
 ## 📬 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-costabile-700b0826a/)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com) -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mariocostabile.github.io)
 
 ---
 
